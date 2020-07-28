@@ -1,0 +1,3 @@
+En la revision no tomé en cuenta el saldo de las tarjetas, ya lo corregí.
+En el caso de que el saldo sea insuficiente, se le da las mismas opciones que
+le doy al cliente cuando ingresa mal sus datos (pagar en efectivo o cancelar la compra).

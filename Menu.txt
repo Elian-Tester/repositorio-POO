@@ -1,0 +1,16 @@
+
+    ______________Renta de PC____________________
+    |     Tiempo   |  Precio |  promocion     |
+     [ 30 min ]  [ $4  ]    [ No aplica       ] 
+     [ 1 hora ]  [ $8  ]    [ No aplica       ] 
+     [ 2 hrs  ]  [ $13 ]    [ 30 min de regalo] 
+     [ 4 hrs  ]  [ $26 ]    [ 1 hora de regalo] 
+
+
+    ______________Renta de Xbox One_______________
+    |     Tiempo   |  Precio |  promocion     |
+     [ 30 min ]  [ $7  ]    [ No aplica       ] 
+     [ 1 hora ]  [ $10 ]    [ No aplica       ] 
+     [ 2 hrs  ]  [ $20 ]    [ 30 min de regalo] 
+     [ 4 hrs  ]  [ $40 ]    [ 1 hora de regalo] 
+____________________________________________________     
